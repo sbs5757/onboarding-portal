@@ -2,10 +2,12 @@ blinker==1.9.0
 click==8.2.0
 docx2pdf==0.1.8
 Flask==3.1.1
+gunicorn==23.0.0
 itsdangerous==2.2.0
 Jinja2==3.1.6
 lxml==5.4.0
 MarkupSafe==3.0.2
+packaging==25.0
 python-docx==1.1.2
 tqdm==4.67.1
 typing_extensions==4.13.2
